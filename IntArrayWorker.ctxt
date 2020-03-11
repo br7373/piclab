@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=theMatrix
+comment0.target=void\ setMatrix(int[][])
+comment1.params=
+comment1.target=int\ getTotal()
+comment2.params=
+comment2.target=int\ getTotalNested()
+comment3.params=
+comment3.target=void\ fillCount()
+comment4.params=
+comment4.target=void\ print()
+comment5.params=
+comment5.target=void\ fillPattern1()
+numComments=6

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Steganography
+comment1.params=p
+comment1.target=void\ clearLow(Pixel)
+comment2.params=pic
+comment2.target=Picture\ testClearLow(Picture)
+comment3.params=p\ c
+comment3.target=void\ setLow(Pixel,\ java.awt.Color)
+comment4.params=pic\ col
+comment4.target=Picture\ testSetLow(Picture,\ java.awt.Color)
+comment5.params=hidden
+comment5.target=Picture\ revealPicture(Picture)
+comment6.params=
+comment6.target=void\ main()
+numComments=7
